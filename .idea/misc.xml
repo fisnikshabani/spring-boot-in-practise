@@ -13,11 +13,15 @@
         <option value="$PROJECT_DIR$/chapter2/command-line-runner/pom.xml" />
         <option value="$PROJECT_DIR$/chapter2/spring-boot-default-logging/pom.xml" />
         <option value="$PROJECT_DIR$/chapter2/spring-boot-app-final/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter3/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter3/onfiguring-relational-database/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter3/configuring-relational-database/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">
       <set>
         <option value="$PROJECT_DIR$/chapter2/ose-env-variables/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter3/onfiguring-relational-database/pom.xml" />
       </set>
     </option>
   </component>
