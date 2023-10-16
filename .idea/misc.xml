@@ -17,6 +17,7 @@
         <option value="$PROJECT_DIR$/chapter3/onfiguring-relational-database/pom.xml" />
         <option value="$PROJECT_DIR$/chapter3/configuring-relational-database/pom.xml" />
         <option value="$PROJECT_DIR$/chapter3/initialize-relational-database-with-schema/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter3/manage-domain-objects-with-jpa/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">
