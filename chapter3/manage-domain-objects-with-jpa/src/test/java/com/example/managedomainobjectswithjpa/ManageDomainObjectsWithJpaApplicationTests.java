@@ -1,12 +1,11 @@
 package com.example.managedomainobjectswithjpa;
 
-import model.Course;
+import com.example.managedomainobjectswithjpa.model.Course;
 import org.assertj.core.api.Assertions;
 import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.boot.autoconfigure.AutoConfiguration;
 import org.springframework.boot.test.context.SpringBootTest;
-import repository.CourseRepository;
+import com.example.managedomainobjectswithjpa.repository.CourseRepository;
 
 @SpringBootTest
 class ManageDomainObjectsWithJpaApplicationTests {

@@ -8,16 +8,18 @@
         <outputRelativeToContentRoot value="true" />
         <module name="manage-domain-objects-with-jpa" />
         <module name="property-sources" />
-        <module name="os-env-variables" />
         <module name="chapter3" />
+        <module name="custom-query-methods" />
         <module name="chapter2" />
-        <module name="config-data" />
         <module name="spring-boot-default-logging" />
-        <module name="configuration-properties" />
         <module name="spring-boot-app-final" />
-        <module name="initialize-relational-database-with-schema" />
         <module name="command-line-runner" />
         <module name="configuring-relational-database" />
+        <module name="os-env-variables" />
+        <module name="config-data" />
+        <module name="configuration-properties" />
+        <module name="initialize-relational-database-with-schema" />
+        <module name="creating-custom-spring-data-repository" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -30,6 +32,8 @@
       <module name="config-data" options="-parameters" />
       <module name="configuration-properties" options="-parameters" />
       <module name="configuring-relational-database" options="-parameters" />
+      <module name="creating-custom-spring-data-repository" options="-parameters" />
+      <module name="custom-query-methods" options="-parameters" />
       <module name="initialize-relational-database-with-schema" options="-parameters" />
       <module name="manage-domain-objects-with-jpa" options="-parameters" />
       <module name="onfiguring-relational-database" options="-parameters" />

@@ -1,6 +1,6 @@
-package repository;
+package com.example.managedomainobjectswithjpa.repository;
 
-import model.Course;
+import com.example.managedomainobjectswithjpa.model.Course;
 import org.springframework.data.repository.CrudRepository;
 import org.springframework.stereotype.Repository;
 

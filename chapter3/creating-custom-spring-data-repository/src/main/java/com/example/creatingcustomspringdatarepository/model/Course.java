@@ -1,4 +1,4 @@
-package model;
+package com.example.creatingcustomspringdatarepository.model;
 
 import javax.persistence.*;
 import java.util.Objects;
