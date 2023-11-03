@@ -21,6 +21,7 @@
         <option value="$PROJECT_DIR$/chapter3/creating-custom-spring-data-repository/pom.xml" />
         <option value="$PROJECT_DIR$/chapter3/custom-query-methods/pom.xml" />
         <option value="$PROJECT_DIR$/chapter3/using-paging-and-sorting-repository/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter3/named-query-method/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">

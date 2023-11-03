@@ -12,6 +12,7 @@
         <module name="chapter3" />
         <module name="custom-query-methods" />
         <module name="chapter2" />
+        <module name="named-query-method" />
         <module name="spring-boot-default-logging" />
         <module name="spring-boot-app-final" />
         <module name="using-paging-and-sorting-repository" />
@@ -38,6 +39,7 @@
       <module name="custom-query-methods" options="-parameters" />
       <module name="initialize-relational-database-with-schema" options="-parameters" />
       <module name="manage-domain-objects-with-jpa" options="-parameters" />
+      <module name="named-query-method" options="-parameters" />
       <module name="onfiguring-relational-database" options="-parameters" />
       <module name="os-env-variables" options="-parameters" />
       <module name="property-sources" options="-parameters" />
