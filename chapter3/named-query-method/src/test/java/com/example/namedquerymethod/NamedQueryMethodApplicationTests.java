@@ -23,7 +23,6 @@ class NamedQueryMethodApplicationTests {
         courseRepository.saveAll(getCourseList());
 
         assertThat(courseRepository.findAllByCategoryAndRating("Spring", 4)).hasSize(1);
-
     }
 
     private List<Course> getCourseList() {
